@@ -43,7 +43,7 @@ python3 -m http.server 8000
 
 Internet connection is mandatory to display the fonts.
 
-##Credits
+## Credits
 
 Udacity
 
